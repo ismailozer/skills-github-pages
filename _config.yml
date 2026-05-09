@@ -1,4 +1,10 @@
 theme: minima
-title: ismailozer's personal blog
-description: This is where I share cool stuff about my life
-author: ismailozer
+title: İsmail Özer
+description: Bilgisayar Mühendisliği öğrencisi | Yazılım Geliştirme | Yapay Zeka
+author: İsmail Özer
+
+minima:
+  skin: classic
+
+header_pages:
+  - index.md
